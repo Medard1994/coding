@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(245, 235, 235);
+    
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+#king{
+    width: 900px;
+    height: 80px;
+    background-color: rgb(255, 254, 254);
+    justify-self: center;
+    border-radius: 1rem;
+    padding: 23px; 
+  
+}
+#king button{
+background-color: blue;
+color: aliceblue;
+height: 30px;
+margin-left: 10px;
+}
+
+#king input{
+    margin-top: 20px;
+    width: 350px;
+    height: 40px;
+    margin-left: 20px;
+    border-radius: 6px;
+    border: 2px solid rgb(241, 215, 215); 
+}
+
+
+.bookMark{
+    
+    display: flex;
+    gap: 23px;
+margin-left: 45px;
+padding: 23px;
+justify-self: center;  
+}
+#h{
+    width: 300px;
+    height: 120px;
+    background-color: whitesmoke;
+    border-radius: 1rem;
+    margin-left: 23px;
+}
+#k{
+    width: 300px;
+    height: 120px;
+    background-color: whitesmoke;
+    border-radius: 1rem;
+}
+section{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.last{
+    width: 300px;
+    height: 120px;
+    background-color: whitesmoke;
+    border-radius: 1rem;
+    margin-left: 220px;
+}
